@@ -1,0 +1,11 @@
+{
+  "description": "For my main website and blog", 
+  "repo": "https://github.com/NateDhaliwal/natedhaliwal.github.io", 
+  "owner": { 
+    "username": "NateDhaliwal", 
+    "email": "[email protected]" 
+  }, 
+  "record": { 
+    "CNAME": "natedhaliwal.github.io" 
+  } 
+}
